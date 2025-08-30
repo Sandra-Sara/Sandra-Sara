@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">Frontend & backend developer</h3>
+<h3 align="center"> A frontend & backend developer</h3>
 
 <img width="220" height="248" alt="image" src="https://github.com/user-attachments/assets/1659346d-9f89-4f1e-ba9c-2ef256950f74">
 
