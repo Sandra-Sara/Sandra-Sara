@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
-<img align="right" alt="coding" width="400" src=<img width="500" height="301" alt="image" src="https://github.com/user-attachments/assets/de6d5ae5-5d41-4bdd-b3ce-ec67509f551e" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandra-sara&label=Profile%20views&color=0e75b6&style=flat" alt="sandra-sara" /> </p>
