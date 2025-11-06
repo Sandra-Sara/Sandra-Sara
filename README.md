@@ -1,4 +1,4 @@
-![logo](https://github.com/Sandra-Sara/Sandra-Sara/blob/main/1375422-anime-girl-feeding-cat-4k-pc-wallpaper.png)
+
 
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A Frontend & Backend Developer</h3>
