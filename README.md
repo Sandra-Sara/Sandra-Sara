@@ -1,5 +1,4 @@
-<!-- Banner / Title -->
-<h1 align="center">Hi 👋, I'm Sara</h1>
+<h1 align="center">Hi,I'm Sara</h1>
 <h3 align="center">A Frontend & Backend Developer</h3>
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=sandra-sara&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=sandra-sara&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
