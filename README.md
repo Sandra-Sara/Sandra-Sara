@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Sara</h1>
+<h1 align="center">Hi, I'm Sara</h1>
 <h3 align="center">A Frontend & Backend Developer</h3>
 
 <p align="center">
@@ -66,14 +66,18 @@
 ---
 
 ## 📊 GitHub Stats
+
+### 🔹 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandra-sara&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=sandra-sara&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+### 🔹 Overall Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandra-sara&show_icons=true&locale=en&theme=tokyonight" height="150"/>
+  <img src="https://readmestats.999857.xyz/api?username=sandra-sara&show_icons=true&theme=tokyonight" height="150"/>
 </p>
 
+### 🔹 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandra-sara&theme=tokyonight" height="150"/>
 </p>
