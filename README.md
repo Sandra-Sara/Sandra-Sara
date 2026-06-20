@@ -25,7 +25,7 @@
   <a href="https://www.leetcode.com/sara_faria" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
-  <a href="https://www.cylabacademy.com/SaraFaria" target="_blank">
+  <a href="https://cylabacademy.org/SaraFaria" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
     
